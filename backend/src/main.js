@@ -22,9 +22,9 @@ const {
   solanaMetadata,
   gif,
 } = require(`${basePath}/src/config.js`);
-const canvas = createCanvas(format.width, format.height);
+const canvas = createCanvas(3000, 3000);
 const ctx = canvas.getContext("2d");
-ctx.imageSmoothingEnabled = format.smoothing;
+
 var metadataList = [];
 var attributesList = [];
 var dnaList = new Set();
