@@ -10,9 +10,9 @@
   --font-code: "Roboto", monospace;
   --bg-color: #000d27;
   --bg-color-transparent: #000d2780;
-  --font-color: #ffffff;
+  --font-color: #faef27;
   --btn-bg-color: #ffffff;
-  --accent-color: #faef27;
+  --accent-color: #232100;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
