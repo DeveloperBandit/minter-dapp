@@ -19,6 +19,7 @@
   "homepage": "https://github.com/codeSTACKr/nft-landing-page#readme",
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.4.1",
+    "@splidejs/splide": "^4.0.7",
     "node-fetch": "^2.6.7",
     "web3": "^1.7.5"
   }
