@@ -335,7 +335,7 @@ section {
 .slide-track {
   display: flex;
   width: calc(250px * 18);
-  animation: scroll 40% linear infinite;
+  animation: scroll 40s linear infinite;
 }
 
 .slide-track:hover {
@@ -344,7 +344,7 @@ section {
 
 @keyframes scroll {
   0% {
-    transform: translateX(0)
+    transform: translateX(0);
   }
   100% {
     transform: translateX(calc(-250px * 9));
