@@ -356,7 +356,7 @@ section {
   width: 250px;
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 15px;
   perspective: 100px;
 }
 
@@ -367,7 +367,6 @@ img {
 
 img:hover {
   transform: translateZ(20px);
-  z-index: 0;
 }
 
 /* SPINNER */
