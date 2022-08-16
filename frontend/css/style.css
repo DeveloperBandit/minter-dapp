@@ -367,6 +367,7 @@ img {
 
 img:hover {
   transform: translateZ(20px);
+  z-index: 0;
 }
 
 /* SPINNER */
