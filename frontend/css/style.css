@@ -356,7 +356,7 @@ section {
   width: 250px;
   display: flex;
   align-items: center;
-  padding: 15px;
+  padding: 10px;
   perspective: 100px;
 }
 
