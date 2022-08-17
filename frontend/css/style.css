@@ -318,9 +318,10 @@ section {
 
 .slide-section {
   min-height: 100vh;
+  display: grid;
   place-items: center;
   font-size: 2rem;
-  flex: 1 1 auto;
+  margin-top: 35vw;
   }
 
 .slider {
