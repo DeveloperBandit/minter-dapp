@@ -321,7 +321,7 @@ section {
   display: grid;
   place-items: center;
   font-size: 2rem;
-  margin: auto;
+  margin-top: 100%;
 }
 
 .slider {
