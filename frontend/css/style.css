@@ -325,7 +325,6 @@ section {
 .slider {
   height: 250px;
   margin: auto;
-  margin-top: 0px;
   position: relative;
   width: 90%;
   display: grid;
