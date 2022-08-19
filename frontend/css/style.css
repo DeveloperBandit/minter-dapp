@@ -318,7 +318,7 @@ section {
 
 .slides {
   min-height: 100vh;
-  display: inline;
+  display: flex;
   place-items: center;
   z-index: -2;
   margin-top: 100%;
