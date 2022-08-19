@@ -320,13 +320,12 @@ section {
   min-height: auto;
   display: grid;
   place-items: center;
-  z-index: -2;
+  font-size: 2rem;
   margin-top: 100%;
   }
 .slides h1 {
   place-items: center;
   margin-bottom: 0%;
-  font-size: 2rem;
 }
 .slider {
   height: 250px;
