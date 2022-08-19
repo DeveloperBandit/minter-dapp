@@ -321,7 +321,7 @@ section {
   display: grid;
   place-items: center;
   font-size: 2rem;
-  margin: 10rem;
+  margin: 10rem 0;
   }
 .slides h1 {
   place-items: center;
