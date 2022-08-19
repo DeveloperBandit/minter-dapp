@@ -316,7 +316,7 @@ section {
 
 /* SLIDDER */
 
-section {
+.slides {
   min-height: auto;
   display: grid;
   place-items: center;
