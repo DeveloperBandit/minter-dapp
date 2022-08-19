@@ -321,6 +321,7 @@ section {
   display: grid;
   place-items: center;
   font-size: 2rem;
+  z-index: -2;
   position: fixed;
   top: 250px;
   }
