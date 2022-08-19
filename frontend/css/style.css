@@ -317,8 +317,8 @@ section {
 /* SLIDDER */
 
 .slides {
-  min-height: 100vh;
-  display: flex;
+  min-height: auto;
+  display: grid;
   place-items: center;
   z-index: -2;
   margin-top: 100%;
