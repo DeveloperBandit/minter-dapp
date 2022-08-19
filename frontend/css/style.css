@@ -316,12 +316,12 @@ section {
 
 /* SLIDDER */
 
-section {
+.slides {
   min-height: 100vh;
   display: grid;
   place-items: center;
   }
-.section h1 {
+.slides h1 {
   place-items: center;
   margin-bottom: 0%;
   font-size: 2rem;
