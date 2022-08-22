@@ -397,6 +397,12 @@ img:hover {
   font-size: 2rem;
 }
 
+.roadmap p {
+  text-align: center;
+  font-size: 0.5rem;
+  padding: 10px;
+}
+
 
 /* MEDIA QUERIES */
 
