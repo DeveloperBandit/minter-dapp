@@ -384,6 +384,18 @@ img:hover {
   transform: translate(-50%, -50%) scale(3);
 }
 
+/* ROADMAP */
+
+.roadmap {
+  text-align: center; 
+  position: relative;
+}
+
+.roadmap h1 {
+  font-size: 2rem;
+}
+
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 768px) {
