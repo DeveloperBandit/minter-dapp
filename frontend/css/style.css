@@ -419,7 +419,7 @@ img:hover {
     background-color: var(--bg-color-transparent);
     border-radius: 5px;
     padding: 2rem;
-    margin: 0 auto;
+    margin: 0;
   }
   .countdown ul {
     display: grid;
