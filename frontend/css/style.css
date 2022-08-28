@@ -424,7 +424,6 @@ img:hover {
   overflow: hidden;
   position: relative;
   border-radius: 3px;
-  border-width: 200px 400px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.05);
 }
 .tiles .tile:before {
