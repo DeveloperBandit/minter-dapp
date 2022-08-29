@@ -448,7 +448,7 @@ img:hover {
 .tiles .tile .details {
   font-size: 16px;
   padding: 20px;
-  color: #fff;
+  color: rgb(182, 182, 182);
   position: absolute;
   bottom: 0;
   left: 0;
