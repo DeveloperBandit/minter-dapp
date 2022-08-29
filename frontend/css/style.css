@@ -456,7 +456,7 @@ img:hover {
 }
 .tiles .tile .details span {
   display: block;
-  opacity: 1;
+  opacity: 0;
   position: relative;
   top: 100px;
   transition-property: top, opacity;
@@ -474,7 +474,7 @@ img:hover {
   font-size: 12px;
 }
 .tiles .tile:focus:before, .tiles .tile:focus span, .tiles .tile:hover:before, .tiles .tile:hover span {
-  opacity: 1;
+  opacity: 0;
 }
 .tiles .tile:focus:before, .tiles .tile:hover:before {
   top: 50%;
