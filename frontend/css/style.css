@@ -423,6 +423,7 @@ img:hover {
   opacity: 0.99;
   overflow: hidden;
   position: relative;
+  border-color: #ffffff;
   border-radius: 3px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.05);
 }
