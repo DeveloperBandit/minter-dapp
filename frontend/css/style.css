@@ -474,7 +474,7 @@ img:hover {
   font-size: 12px;
 }
 .tiles .tile:focus:before, .tiles .tile:focus span, .tiles .tile:hover:before, .tiles .tile:hover span {
-  opacity: 0;
+  opacity: 1;
 }
 .tiles .tile:focus:before, .tiles .tile:hover:before {
   top: 50%;
