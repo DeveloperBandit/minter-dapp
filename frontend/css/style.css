@@ -407,7 +407,7 @@ img:hover {
 /* Reset */
 @import url(//codepen.io/chrisdothtml/pen/ojLzJK.css);
 .tiles {
-  width: 1250px;
+  width: 1000px;
   height: 350px;
   font-size: 0;
   text-align: center;
