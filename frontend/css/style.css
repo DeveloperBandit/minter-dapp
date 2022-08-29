@@ -399,6 +399,13 @@ img:hover {
 
 .roadmap p {
   text-align: center;
+  font-size: 1rem;
+  padding: 10px;
+  margin: auto 0;
+}
+
+.roadmap p2 {
+  text-align: center;
   position: relative;
   font-size: 1rem;
   padding: 10px;
