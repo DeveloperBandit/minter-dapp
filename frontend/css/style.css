@@ -456,7 +456,7 @@ img:hover {
 }
 .tiles .tile .details span {
   display: block;
-  opacity: 0;
+  opacity: 1;
   position: relative;
   top: 100px;
   transition-property: top, opacity;
