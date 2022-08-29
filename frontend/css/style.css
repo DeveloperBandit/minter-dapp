@@ -470,7 +470,7 @@ img:hover {
 }
 .tiles .tile .details .info {
   line-height: 1.2;
-  margin-top: 5px;
+  margin-top: 10px;
   font-size: 12px;
 }
 .tiles .tile:focus:before, .tiles .tile:focus span, .tiles .tile:hover:before, .tiles .tile:hover span {
