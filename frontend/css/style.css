@@ -30,6 +30,7 @@ body {
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  overflow-x: hidden;
 }
 
 .container {
