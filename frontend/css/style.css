@@ -323,12 +323,13 @@ section {
   font-size: 2rem;
   position: relative;
   margin-top: 10%;
-  background-color: #ffffff;
   }
+
 .slides h1 {
   place-items: center;
   margin-bottom: 0%;
 }
+
 .slider {
   height: 250px;
   margin: 0 auto;
