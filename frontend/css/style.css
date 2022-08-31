@@ -62,6 +62,14 @@ header .container {
   align-items: center;
 }
 
+/* FOOTER */
+
+footer {
+  text-align: left;
+  font-size: 8px;
+  
+}
+
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
