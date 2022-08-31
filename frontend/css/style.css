@@ -67,6 +67,8 @@ header .container {
 footer {
   text-align: left;
   font-size: 8px;
+  position: relative;
+  color: white;
   
 }
 
