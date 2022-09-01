@@ -73,6 +73,10 @@ footer {
 
 }
 
+hr {
+  width: 2px;
+}
+
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
