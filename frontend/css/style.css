@@ -64,10 +64,10 @@ header .container {
 
 /* FOOTER */
 
-.footer {
+footer {
   text-align: left;
   font-size: 14px;
-  margin: 10rem 5rem;
+  margin: 15rem 5rem;
   position: relative;
   color: white;
 
