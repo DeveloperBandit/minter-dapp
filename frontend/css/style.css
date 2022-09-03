@@ -361,7 +361,7 @@ section {
 
 .slide-track {
   display: flex;
-  width: calc(250px * 18);
+  width: calc(450px * 18);
   animation: scroll 40s linear infinite;
 }
 
@@ -374,7 +374,7 @@ section {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(calc(-250px * 9));
+    transform: translateX(calc(-450px * 9));
   }
 }
 
