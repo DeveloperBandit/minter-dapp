@@ -341,12 +341,11 @@ section {
   font-size: 2rem;
   position: relative;
   margin-top: 1%;
-  margin-bottom: 0;
   }
 
 .slides h1 {
   place-items: center;
-  margin-bottom: 0%;
+  margin-bottom: 0;
   margin-left: 5rem;
 }
 
