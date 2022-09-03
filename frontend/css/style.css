@@ -335,7 +335,7 @@ section {
 /* SLIDDER */
 
 .slides {
-  min-height: auto;
+  min-height: 450px;
   display: grid;
   place-items: left;
   font-size: 2rem;
