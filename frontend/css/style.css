@@ -379,8 +379,8 @@ section {
 }
 
 .slide {
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
   display: flex;
   align-items: center;
   padding: 15px;
