@@ -337,7 +337,7 @@ section {
 .slides {
   min-height: auto;
   display: grid;
-  place-items: center;
+  place-items: left;
   font-size: 2rem;
   position: relative;
   margin-top: 1%;
