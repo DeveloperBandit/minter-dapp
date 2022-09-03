@@ -346,6 +346,7 @@ section {
 .slides h1 {
   place-items: center;
   margin-bottom: 0%;
+  margin-left: auto;
 }
 
 .slider {
