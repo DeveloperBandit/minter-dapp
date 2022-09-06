@@ -3,10 +3,12 @@ let accounts;
 // METAMASK CONNECTION
 window.addEventListener("DOMContentLoaded", async () => {
   const welcomeH1 = document.getElementById("welcomeH1");
+  const welcomeH1imp = document.getElementById("welcomeH1imp");
   const welcomeH2 = document.getElementById("welcomeH2");
   const welcomeP = document.getElementById("welcomeP");
 
-  welcomeH1.innerText = welcome_h1 + welcome_h1_important + welcome_h1_end;
+  welcomeH1.innerText = welcome_h1;
+  welcomeH1imp.innerText = welcome_h1_important;
   welcomeH2.innerText = welcome_h2;
   welcomeP.innerHTML = welcome_p;
 
