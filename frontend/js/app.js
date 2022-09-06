@@ -6,7 +6,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   const welcomeH2 = document.getElementById("welcomeH2");
   const welcomeP = document.getElementById("welcomeP");
 
-  welcomeH1.innerText = welcome_h1;
+  welcomeH1.innerText = welcome_h1 + welcome_h1_important + welcome_h1_end;
   welcomeH2.innerText = welcome_h2;
   welcomeP.innerHTML = welcome_p;
 
