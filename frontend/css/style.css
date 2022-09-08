@@ -347,18 +347,18 @@ section {
 .about {
   position: relative;
   margin-right: 10rem;
-  margin-bottom: 7%;
+  margin-bottom: 10%;
   margin-top: 1%;
 }
 
 .about h1 {
   text-align: right;
-  font-size: 3.5rem;
+  font-size: 3rem;
   color: yellow;
 }
 .about p {
   text-align: right;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-family: var(--font-secondary);
   line-height: 1.8;
 }
