@@ -118,11 +118,7 @@ hr {
   font-size: 3.5rem;
 }
 
-.not-connected p {
-  font-size: 1.1rem;
-  font-family: var(--font-secondary);
-  line-height: 1.8;
-}
+
 
 .not-connected a {
   text-decoration: none;
