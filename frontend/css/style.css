@@ -344,8 +344,12 @@ section {
 
 /* ABOUT */
 
-.about h1 {
+.about {
   position: relative;
+  margin-right: 5rem;
+}
+
+.about h1 {
   text-align: right;
   font-size: 2rem;
   color: yellow;
