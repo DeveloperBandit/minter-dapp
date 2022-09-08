@@ -2,6 +2,7 @@ const contractAddress = "0xc816AC47C5Bb2D50DDd8Fc83CB95c561afE9f714"; // Replace
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the ";
+const welcome_h3 = "Bount Town Bandits ";
 const welcome_h2 = "Connect Your Wallet to Get Started";
 const welcome_p = 'The Bounty Town Bandits offers a unique collection of 10,000 randomly generated Bandit NFTs. Each Bandit is designed from timeless thieves, outlaws, sheriffs, pirates, and 1920s gangsters; and, each Bandit has its own special gunslinger ability.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";

@@ -4,10 +4,12 @@ let accounts;
 window.addEventListener("DOMContentLoaded", async () => {
   const welcomeH1 = document.getElementById("welcomeH1");
   const welcomeH2 = document.getElementById("welcomeH2");
+  const welcomeH3 = document.getElementById("welcomeH3")
   const welcomeP = document.getElementById("welcomeP");
 
   welcomeH1.innerText = welcome_h1;
   welcomeH2.innerText = welcome_h2;
+  welcomeH3.innerText = welcome_h3;
   welcomeP.innerHTML = welcome_p;
 
   if (window.ethereum) {
