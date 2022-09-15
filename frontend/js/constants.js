@@ -2,8 +2,8 @@ const contractAddress = "0xc816AC47C5Bb2D50DDd8Fc83CB95c561afE9f714"; // Replace
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the ";
-const welcome_h3 = "Bount Town Bandits ";
-const welcome_h4 = "NFT Project!!!";
+const welcome_h3 = "Bounty Town Bandits ";
+const welcome_h4 = "NFT Project!";
 const welcome_h2 = "Connect Your Wallet to Get Started";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Whitelist Minting Open!!";
